@@ -235,7 +235,7 @@ export default function HomePage() {
               { name: "L-Shape Luxury Sofa", category: "Sofas", price: "₹24,999", tag: "Bestseller", emoji: "🛋️" },
               { name: "King Size Bed Frame", category: "Beds", price: "₹18,499", tag: "Popular", emoji: "🛏️" },
               { name: "6-Seater Dining Set", category: "Dining", price: "₹32,000", tag: "New Arrival", emoji: "🍽️" },
-              { name: "3-Door Wardrobe", category: "Storage", price: "₹15,999", tag: "Sale", emoji: "🚪" },
+              { name: "3-Door Sliding Wardrobe", category: "Storage", price: "₹19,999", tag: "Sale", emoji: "🚪" },
               { name: "Study Table & Chair", category: "Study", price: "₹8,500", tag: "Budget Pick", emoji: "📚" },
               { name: "Sleek TV Unit", category: "Living Room", price: "₹11,200", tag: "Trending", emoji: "📺" },
             ].map((product) => (
