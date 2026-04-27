@@ -131,9 +131,14 @@ export default function HomePage() {
           {/* Hero image placeholder */}
           <div className="flex-1 w-full max-w-lg lg:max-w-none">
             <div className="bg-amber-800/50 rounded-3xl aspect-[4/3] flex flex-col items-center justify-center border border-amber-600/30">
-              <span className="text-6xl">🛋️</span>
+            <img 
+              src="/images/home/hero.avif"
+              alt="Showroom Photo"
+              className="w-full h-full object-cover rounded-3xl"
+            />
+              {/* <span className="text-6xl">🛋️</span>
               <p className="text-amber-300 mt-3 text-sm font-medium">Showroom Photo Coming Soon</p>
-              <p className="text-amber-400/60 text-xs mt-1">Add image to /public/hero.jpg</p>
+              <p className="text-amber-400/60 text-xs mt-1">Add image to /public/hero.jpg</p> */}
             </div>
           </div>
         </div>
